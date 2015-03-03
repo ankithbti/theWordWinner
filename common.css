@@ -1,0 +1,32 @@
+body{
+	background-color: #fff ;
+	padding: 0px;
+	margin: 0px;
+	color: #333;
+}
+
+.topRibbon{
+	height: 2px;
+	background-color:gray;
+}
+
+.tags {
+	padding: 2px 5px;
+	margin: 5px;
+}
+
+input[type="text"] {
+	height: 30px;
+}
+
+.table caption + thead tr:first-child th {
+	font-size: 0.9em;
+	font-weight: 200;
+	padding:2px 5px;
+	background-color: #f1f1f1;
+	color:#333;
+}
+
+.table caption {
+	margin: 10px 0px 20px 0px;
+}
